@@ -32,4 +32,4 @@
 
 6. Access the application at `http://localhost:8000` in your web browser.
 
-![screenshot](image.png)
+![screenshot](./assets/image.png)
